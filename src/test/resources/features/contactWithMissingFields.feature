@@ -14,7 +14,9 @@ Feature:User submit to the landing page
 
 
     Examples:
-      | First Name                | Last Name                    | Email Address     |
-      | ALEXIS                    | Musk                         | musk1@gmail.com   |
-      | Jonathan Alexander Graham | Scottish                     | john123@gmail.com |
-      | Alexandra                 | British Norman Kalahulamulla | alex123@gmail.com |
+      | First Name                | Last Name                    | Email Address        |
+      | ALEXIS                    | Musk                         | musk1@gmail.com      |
+      | Jonathan Alexander Graham | Scottish                     | john123@gmail.com    |
+      | Alexandra                 | British Norman Kalahulamulla | alex123@gmail.com    |
+      |                           |                              |                      |
+      | merweska                  |                              | hadzajlic134gmailcom |

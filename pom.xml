@@ -18,19 +18,19 @@
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
-            <version>7.0.0</version>
+            <version>6.11.0</version>
         </dependency>
 
         <dependency>
             <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
-            <version>7.0.0</version>
+            <version>6.11.0</version>
         </dependency>
         <!--        If you use latest version of cucumber , you need to use latest version of reporter-->
         <dependency>
             <groupId>me.jvt.cucumber</groupId>
             <artifactId>reporting-plugin</artifactId>
-            <version>7.0.0</version>
+            <version>5.3.0</version>
         </dependency>
 
         <dependency>
@@ -44,6 +44,7 @@
             <artifactId>javafaker</artifactId>
             <version>1.0.2</version>
         </dependency>
+        <!--generate data but i use another source https://www.mockaroo.com/ -->
 
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
